@@ -1,6 +1,12 @@
-tensorflow>=2.0.0
-opencv-python>=4.5.0
-streamlit>=1.0.0
-numpy>=1.20.0
-scikit-learn>=1.0.0  # (if you use joblib for model saving)
-joblib>=1.0.0
+# Core Requirements
+tensorflow==2.19.0
+keras==3.10.0
+opencv-python==4.12.0.88
+streamlit==1.46.1
+numpy==2.1.3
+joblib==1.5.1
+scikit-learn==1.6.1
+h5py==3.14.0
+pillow==11.2.1
+matplotlib==3.10.3
+pandas==2.3.0
